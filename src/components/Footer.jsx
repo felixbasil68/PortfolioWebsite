@@ -7,9 +7,6 @@ export default function Footer() {
     <footer className="border-t border-border py-6 text-center relative z-1 w-full flex justify-center">
       <div className="w-full max-w-6xl px-6 flex flex-col items-center justify-center">
         <p className="text-text-muted text-sm font-mono flex items-center justify-center flex-wrap gap-1">
-          Built with  by{' '}
-          <span className="text-cyan-400">Felix Deon Basil</span>
-          <span className="hidden sm:inline mx-2">·</span>
           <span className="block sm:inline">© {currentYear} All Rights Reserved</span>
         </p>
       </div>
