@@ -230,7 +230,7 @@ body {
 }
 
 /* Project cards */
-/* Project cards - Dark Theme - FIXED */
+
 .project-card {
   background: rgba(1, 7, 34, 0.85);
   backdrop-filter: blur(16px);
