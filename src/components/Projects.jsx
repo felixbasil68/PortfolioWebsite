@@ -66,7 +66,6 @@ export default function Projects() {
       desc: 'Employee management system with role-based access, analytics dashboard, and real-time data handling.',
       url: 'https://ems-indol-psi.vercel.app/',
       tags: ['React', 'Tailwind', 'REST API'],
-      icon: '📊',
       image: ems,
     },
    
@@ -76,7 +75,6 @@ export default function Projects() {
       desc: 'Educational journey through human evolution history with immersive animations and interactive content.',
       url: 'https://human-evalution.vercel.app/',
       tags: ['React', 'Interactive', 'Education'],
-      icon: '🧬',
       image: human,
     },
     
