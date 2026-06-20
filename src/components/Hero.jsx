@@ -11,7 +11,7 @@ export default function Hero() {
     };
 
     return (
-        <section id='about' className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16 w-full">
+        <section id='home' className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16 w-full">
             <div className="hero-grid" />
 
             <div className="absolute top-[20%] right-[10%] w-100 h-100 rounded-full pointer-events-none"
